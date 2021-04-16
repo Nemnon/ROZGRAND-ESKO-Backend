@@ -1,0 +1,1 @@
+npm i axios fastify fastify-cors fastify-jwt fastify-multipart fastify-plugin fastify-static moment mssql xml2js
